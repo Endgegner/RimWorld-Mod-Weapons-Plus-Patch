@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MeleeWeapon_Flail.label>Dreschflegel</MeleeWeapon_Flail.label>
-  <MeleeWeapon_Flail.description>Eine Waffe die oft mit einem Morgenstern verwechselt wird, jedoch in einer geübten hat weit mehr Schwung entwickelt, denn hier wird das Kopfstück mit einer flexiblen Kette verbunden, anstatt es direkt mit dem Schaft zu verkeilen.</MeleeWeapon_Flail.description>
+  <MeleeWeapon_Flail.description>Eine Waffe die oft mit einem Morgenstern verwechselt wird, jedoch in einer geübten Hand weit mehr Schwung entwickelt, denn hier wird das Kopfstück mit einer flexiblen Kette verbunden, anstatt es direkt mit dem Schaft zu verkeilen.</MeleeWeapon_Flail.description>
   <MeleeWeapon_Flail.tools.0.label>Griff</MeleeWeapon_Flail.tools.0.label>
   <MeleeWeapon_Flail.tools.1.label>Kette</MeleeWeapon_Flail.tools.1.label>
   <MeleeWeapon_Flail.tools.2.label>Kopf</MeleeWeapon_Flail.tools.2.label>
