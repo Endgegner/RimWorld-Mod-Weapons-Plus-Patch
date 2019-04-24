@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MeleeWeapon_Flail.label>Dreschflegel</MeleeWeapon_Flail.label>
@@ -9,7 +9,7 @@
   <MeleeWeapon_Flail.tools.3.label>Stacheln</MeleeWeapon_Flail.tools.3.label>
 
   <MeleeWeapon_Nunchaku.label>Nunchaku</MeleeWeapon_Nunchaku.label>
-  <MeleeWeapon_Nunchaku.description>Eine tödliche Waffe bassierend auf zwei simplen Stöckern und einem Seil oder einer Kette, die beide verbindet.  </MeleeWeapon_Nunchaku.description>
+  <MeleeWeapon_Nunchaku.description>Eine tödliche Waffe bassierend auf zwei simplen Stöckern und einem Seil oder einer Kette, die beide verbindet.</MeleeWeapon_Nunchaku.description>
   <MeleeWeapon_Nunchaku.tools.0.label>Griff</MeleeWeapon_Nunchaku.tools.0.label>
   <MeleeWeapon_Nunchaku.tools.1.label>Ende</MeleeWeapon_Nunchaku.tools.1.label>
   <MeleeWeapon_Nunchaku.tools.2.label>Kette</MeleeWeapon_Nunchaku.tools.2.label>
