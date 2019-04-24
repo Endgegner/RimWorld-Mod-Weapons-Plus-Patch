@@ -12,9 +12,8 @@ When the code or content is based on different mods and their templates, please 
 
 Update: Weapons+ creates better compatibility for other MeleeWeapon mods like DGWP* or WT* now.
 
-Compatibility Changes
-Removes the same weapons: 'Scythe' of Dead Goat's Weapon Pack* or 'Katana' of Weapon Tech*, when installed.
-Beware: This will remove the Weapons from the game since they would exist twice. Only add Weapons+ if you don't care about your old Katanas and Scythes on your savegame.
+Compatibility Changes: Removes the same weapons 'Scythe' of Dead Goat's Weapon Pack* and 'Katana' of Weapon Tech*, when found.
+Beware: This will remove both weapons from the game entirely, since they would exist twice. Add Weapons+ only if you don't care about your old Katanas and Scythes on your savegames with DGWP or WT installed.
 
 Patch * by Trunken<br>
 German Translations * by Endgegner<br>
