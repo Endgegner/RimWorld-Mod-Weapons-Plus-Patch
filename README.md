@@ -16,5 +16,5 @@ Compatibility Changes
 Removes the same weapons: 'Scythe' of Dead Goat's Weapon Pack or 'Katana' of Weapon Tech, when installed.
 Beware: This will remove the Weapons from the game since they would exist twice. Only add Weapons+ if you don't care about your old Katanas and Scythes on your savegame.
 
-Patch * by Trunken
-German Translations * by Endgegner
+Patch * by Trunken<br>
+German Translations * by Endgegner<br>
