@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RangedWeapon_Kunai.label>Kunai</RangedWeapon_Kunai.label>
+  <RangedWeapon_Kunai.description>Ursprünglich als ein Werkzeug zur Landarbeit verwendet, wurde diese Waffe schnell zu einem praktischen Helfer in Not und kann sowohl im Nahkampf zur Abwehr von Angriffen als auch im Fernkampf als Wurfmesser vielseitig eingesetzt werden.</RangedWeapon_Kunai.description>
+  <RangedWeapon_Kunai.tools.0.label>Griff</RangedWeapon_Kunai.tools.0.label>
+  <RangedWeapon_Kunai.tools.1.label>Spitze</RangedWeapon_Kunai.tools.1.label>
+  <RangedWeapon_Kunai.tools.2.label>Klinge</RangedWeapon_Kunai.tools.2.label>
+
+  <Kunai_Thrown.label>Wurfmesser</Kunai_Thrown.label>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_Maul.label>Demolierer</MeleeWeapon_Maul.label>
+  <MeleeWeapon_Maul.description>Ein schwerer zweihändiger Hammer mit einer verheerenden Wirkung auf Rüstungen. Hier braucht man schon zum anheben alleine ordentlich Schmalz.</MeleeWeapon_Maul.description>
+  <MeleeWeapon_Maul.tools.0.label>Kopf</MeleeWeapon_Maul.tools.0.label>
+
+  <MeleeWeapon_Morning_Star.label>Morgenstern</MeleeWeapon_Morning_Star.label>
+  <MeleeWeapon_Morning_Star.description>Ein Streitkolben dessen Kopfende in einem Chaos aus Stacheln endet. Diese Waffe eignet sich sowohl zum Draufprügeln, als auch zum Aufpießen unglückseliger Opfer.</MeleeWeapon_Morning_Star.description>
+  <MeleeWeapon_Morning_Star.tools.0.label>Griff</MeleeWeapon_Morning_Star.tools.0.label>
+  <MeleeWeapon_Morning_Star.tools.1.label>Kopf</MeleeWeapon_Morning_Star.tools.1.label>
+  <MeleeWeapon_Morning_Star.tools.2.label>Stacheln</MeleeWeapon_Morning_Star.tools.2.label>
+
+</LanguageData>

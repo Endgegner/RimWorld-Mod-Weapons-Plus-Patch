@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_Katana.label>Katana</MeleeWeapon_Katana.label>
+  <MeleeWeapon_Katana.description>Ein leicht kurviges, langes Schwert mit den Wurzeln in einem Land namens Japan aus längst vergangenen Jahrhunderten. Sie wird bei den richtigen Schmieden endlose Male gefaltet um der Klinge mehr Durchschlagskraft zu verleihen.</MeleeWeapon_Katana.description>
+  <MeleeWeapon_Katana.tools.0.label>Griff</MeleeWeapon_Katana.tools.0.label>
+  <MeleeWeapon_Katana.tools.1.label>Spitze</MeleeWeapon_Katana.tools.1.label>
+  <MeleeWeapon_Katana.tools.2.label>Klinge</MeleeWeapon_Katana.tools.2.label>
+
+  <MeleeWeapon_Claymore.label>Claymore</MeleeWeapon_Claymore.label>
+  <MeleeWeapon_Claymore.description>Eine Waffe mit gerader, zweischneidiger Klinge. Sie wird vom Heft zur Spitze hin schmaler und hat das typische V-förmige Parierelement.</MeleeWeapon_Claymore.description>
+  <MeleeWeapon_Claymore.tools.0.label>Griff</MeleeWeapon_Claymore.tools.0.label>
+  <MeleeWeapon_Claymore.tools.1.label>Spitze</MeleeWeapon_Claymore.tools.1.label>
+  <MeleeWeapon_Claymore.tools.2.label>Klinge</MeleeWeapon_Claymore.tools.2.label>
+
+  <MeleeWeapon_Zweihander.label>Zweihänder</MeleeWeapon_Zweihander.label>
+  <MeleeWeapon_Zweihander.description>Ein Großschwert mit so langer Klinge, daß es gleich von zwei Händen gehalten werden muss.</MeleeWeapon_Zweihander.description>
+  <MeleeWeapon_Zweihander.tools.0.label>Griff</MeleeWeapon_Zweihander.tools.0.label>
+  <MeleeWeapon_Zweihander.tools.1.label>Spitze</MeleeWeapon_Zweihander.tools.1.label>
+  <MeleeWeapon_Zweihander.tools.2.label>Klinge</MeleeWeapon_Zweihander.tools.2.label>
+
+  <MeleeWeapon_Sabre.label>Säbel</MeleeWeapon_Sabre.label>
+  <MeleeWeapon_Sabre.description>Ein krummes Schwert, welches oft von rechtschaffender Kavallerie oder berüchtigten Piraten getragen wurde.</MeleeWeapon_Sabre.description>
+  <MeleeWeapon_Sabre.tools.0.label>Griff</MeleeWeapon_Sabre.tools.0.label>
+  <MeleeWeapon_Sabre.tools.1.label>Spitze</MeleeWeapon_Sabre.tools.1.label>
+  <MeleeWeapon_Sabre.tools.2.label>Klinge</MeleeWeapon_Sabre.tools.2.label>
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_Bardiche.label>Hellebarde</MeleeWeapon_Bardiche.label>
+  <MeleeWeapon_Bardiche.description>Eine Schlachtaxt mit abnormal großer und beilförmig Klinge. Ein guter Hieb mit dieser vermag jemanden zu halbieren.</MeleeWeapon_Bardiche.description>
+  <MeleeWeapon_Bardiche.tools.0.label>Schaft</MeleeWeapon_Bardiche.tools.0.label>
+  <MeleeWeapon_Bardiche.tools.1.label>Spitze</MeleeWeapon_Bardiche.tools.1.label>
+  <MeleeWeapon_Bardiche.tools.2.label>Kante</MeleeWeapon_Bardiche.tools.2.label>
+  <MeleeWeapon_Bardiche.tools.3.label>Klinge</MeleeWeapon_Bardiche.tools.3.label>
+
+  <MeleeWeapon_Glaive.label>Gleve</MeleeWeapon_Glaive.label>
+  <MeleeWeapon_Glaive.description>Eine mitteralterliche Stangenwaffe mit einer scharfen Klinge an der Seite mit der man Schmettern und Stechen kann.</MeleeWeapon_Glaive.description>
+  <MeleeWeapon_Glaive.tools.0.label>Schaft</MeleeWeapon_Glaive.tools.0.label>
+  <MeleeWeapon_Glaive.tools.1.label>Klinge</MeleeWeapon_Glaive.tools.1.label>
+
+  <MeleeWeapon_Bo_Staff.label>Langstock</MeleeWeapon_Bo_Staff.label>
+  <MeleeWeapon_Bo_Staff.description>Eine lange abgerundete Stange. Sehr einfach zu machen und mit dem richtigen Können lassen sich Angriffe spielerisch parieren.</MeleeWeapon_Bo_Staff.description>
+  <MeleeWeapon_Bo_Staff.tools.0.label>Schaft</MeleeWeapon_Bo_Staff.tools.0.label>
+  <MeleeWeapon_Bo_Staff.tools.1.label>Ende</MeleeWeapon_Bo_Staff.tools.1.label>
+
+  <MeleeWeapon_Scythe.label>Sense</MeleeWeapon_Scythe.label>
+  <MeleeWeapon_Scythe.description>Ein Werkzeug zur Erleichterung der Landarbeit. Dank der langen, kurvigen Klinge am ergonomischen Schaft auch in einem Kampf nicht zu belächeln.</MeleeWeapon_Scythe.description>
+  <MeleeWeapon_Scythe.tools.0.label>Schaft</MeleeWeapon_Scythe.tools.0.label>
+  <MeleeWeapon_Scythe.tools.1.label>Innere Klinge</MeleeWeapon_Scythe.tools.1.label>
+  <MeleeWeapon_Scythe.tools.2.label>Äußere Klinge</MeleeWeapon_Scythe.tools.2.label>
+
+  <MeleeWeapon_Naginata.label>Naginata</MeleeWeapon_Naginata.label>
+  <MeleeWeapon_Naginata.description>Im Wesentlichen handelt es sich beim Naginata um ein Schwert mit einem deutlich größeren Griffstück und einer dafür verhältnismäßig kleineren Schneide. Durch die sichere Handhabung lassen sich Hiebe besser platzieren.</MeleeWeapon_Naginata.description>
+  <MeleeWeapon_Naginata.tools.0.label>Schaft</MeleeWeapon_Naginata.tools.0.label>
+  <MeleeWeapon_Naginata.tools.1.label>Klinge</MeleeWeapon_Naginata.tools.1.label>
+
+</LanguageData>

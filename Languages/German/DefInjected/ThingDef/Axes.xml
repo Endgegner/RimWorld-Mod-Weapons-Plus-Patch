@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_Great_Axe.label>Doppelaxt</MeleeWeapon_Great_Axe.label>
+  <MeleeWeapon_Great_Axe.description>Eine schwere zweihändige Großaxt mit Klingen an beiden Seiten. Nicht leicht zu schwingen, aber hat einen ordentlichen Bums.</MeleeWeapon_Great_Axe.description>
+  <MeleeWeapon_Great_Axe.tools.0.label>Griff</MeleeWeapon_Great_Axe.tools.0.label>
+  <MeleeWeapon_Great_Axe.tools.1.label>Klinge</MeleeWeapon_Great_Axe.tools.1.label>
+
+</LanguageData>

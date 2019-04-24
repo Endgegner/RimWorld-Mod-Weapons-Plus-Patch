@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
+  <Make_MeleeWeapon_Great_Axe.label>Stelle eine Doppelaxt her</Make_MeleeWeapon_Great_Axe.label>
+  <Make_MeleeWeapon_Great_Axe.description>Stelle eine Doppelaxt her.</Make_MeleeWeapon_Great_Axe.description>
+  <Make_MeleeWeapon_Great_Axe.jobString>Waffenherstellung.</Make_MeleeWeapon_Great_Axe.jobString>
+
+  <Make_MeleeWeapon_Flail.label>Stelle einen Dreschflegel her</Make_MeleeWeapon_Flail.label>
+  <Make_MeleeWeapon_Flail.description>Stelle einen Dreschflegel her.</Make_MeleeWeapon_Flail.description>
+  <Make_MeleeWeapon_Flail.jobString>Waffenherstellung.</Make_MeleeWeapon_Flail.jobString>
+
+  <Make_MeleeWeapon_Nunchaku.label>Stelle ein Nunchaku her</Make_MeleeWeapon_Nunchaku.label>
+  <Make_MeleeWeapon_Nunchaku.description>Stelle ein Nunchaku her.</Make_MeleeWeapon_Nunchaku.description>
+  <Make_MeleeWeapon_Nunchaku.jobString>Waffenherstellung.</Make_MeleeWeapon_Nunchaku.jobString>
+
+  <Make_MeleeWeapon_Maul.label>Stelle einen Demolierer her</Make_MeleeWeapon_Maul.label>
+  <Make_MeleeWeapon_Maul.description>Stelle einen Demolierer her.</Make_MeleeWeapon_Maul.description>
+  <Make_MeleeWeapon_Maul.jobString>Waffenherstellung.</Make_MeleeWeapon_Maul.jobString>
+
+  <Make_MeleeWeapon_Morning_Star.label>Stelle einen Morgenstern her</Make_MeleeWeapon_Morning_Star.label>
+  <Make_MeleeWeapon_Morning_Star.description>Stelle einen Morgenstern her.</Make_MeleeWeapon_Morning_Star.description>
+  <Make_MeleeWeapon_Morning_Star.jobString>Waffenherstellung.</Make_MeleeWeapon_Morning_Star.jobString>
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy, CraftingSpot -->
+  <Make_MeleeWeapon_Primitive_Knife.label>Stelle eine Splitterklinge her</Make_MeleeWeapon_Primitive_Knife.label>
+  <Make_MeleeWeapon_Primitive_Knife.description>Stelle eine Splitterklinge her.</Make_MeleeWeapon_Primitive_Knife.description>
+  <Make_MeleeWeapon_Primitive_Knife.jobString>Waffenherstellung.</Make_MeleeWeapon_Primitive_Knife.jobString>
+
+  <Make_MeleeWeapon_Kukri.label>Stelle einen Kukri her</Make_MeleeWeapon_Kukri.label>
+  <Make_MeleeWeapon_Kukri.description>Stelle einen Kukri her.</Make_MeleeWeapon_Kukri.description>
+  <Make_MeleeWeapon_Kukri.jobString>Waffenherstellung.</Make_MeleeWeapon_Kukri.jobString>
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
+  <Make_MeleeWeapon_Bardiche.label>Stelle eine Hellebarde her</Make_MeleeWeapon_Bardiche.label>
+  <Make_MeleeWeapon_Bardiche.description>Stelle eine Hellebarde her.</Make_MeleeWeapon_Bardiche.description>
+  <Make_MeleeWeapon_Bardiche.jobString>Waffenherstellung.</Make_MeleeWeapon_Bardiche.jobString>
+
+  <Make_MeleeWeapon_Glaive.label>Stelle eine Gleve her</Make_MeleeWeapon_Glaive.label>
+  <Make_MeleeWeapon_Glaive.description>Stelle eine Gleve her.</Make_MeleeWeapon_Glaive.description>
+  <Make_MeleeWeapon_Glaive.jobString>Waffenherstellung.</Make_MeleeWeapon_Glaive.jobString>
+
+  <Make_MeleeWeapon_Bo_Staff.label>Stelle einen Langstock her</Make_MeleeWeapon_Bo_Staff.label>
+  <Make_MeleeWeapon_Bo_Staff.description>Stelle einen Langstock her.</Make_MeleeWeapon_Bo_Staff.description>
+  <Make_MeleeWeapon_Bo_Staff.jobString>Waffenherstellung.</Make_MeleeWeapon_Bo_Staff.jobString>
+
+  <Make_MeleeWeapon_Scythe.label>Stelle eine Sense her</Make_MeleeWeapon_Scythe.label>
+  <Make_MeleeWeapon_Scythe.description>Stelle eine Sense her.</Make_MeleeWeapon_Scythe.description>
+  <Make_MeleeWeapon_Scythe.jobString>Waffenherstellung.</Make_MeleeWeapon_Scythe.jobString>
+
+  <Make_MeleeWeapon_Naginata.label>Stelle ein Naginata her</Make_MeleeWeapon_Naginata.label>
+  <Make_MeleeWeapon_Naginata.description>Stelle ein Naginata her.</Make_MeleeWeapon_Naginata.description>
+  <Make_MeleeWeapon_Naginata.jobString>Waffenherstellung.</Make_MeleeWeapon_Naginata.jobString>
+
+  <Make_MeleeWeapon_Brass_Knuckles.label>Stelle einen Schlagring her</Make_MeleeWeapon_Brass_Knuckles.label>
+  <Make_MeleeWeapon_Brass_Knuckles.description>Stelle einen Schlagring her.</Make_MeleeWeapon_Brass_Knuckles.description>
+  <Make_MeleeWeapon_Brass_Knuckles.jobString>Waffenherstellung.</Make_MeleeWeapon_Brass_Knuckles.jobString>
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy, CraftingSpot -->
+  <Make_MeleeWeapon_Tonfa.label>Stelle einen Schlagstock her</Make_MeleeWeapon_Tonfa.label>
+  <Make_MeleeWeapon_Tonfa.description>Stelle einen Schlagstock her.</Make_MeleeWeapon_Tonfa.description>
+  <Make_MeleeWeapon_Tonfa.jobString>Waffenherstellung.</Make_MeleeWeapon_Tonfa.jobString>
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
+  <Make_MeleeWeapon_Katana.label>Stelle ein Katana her</Make_MeleeWeapon_Katana.label>
+  <Make_MeleeWeapon_Katana.description>Stelle ein Katana her.</Make_MeleeWeapon_Katana.description>
+  <Make_MeleeWeapon_Katana.jobString>Waffenherstellung.</Make_MeleeWeapon_Katana.jobString>
+
+  <Make_MeleeWeapon_Claymore.label>Stelle einen Claymore her</Make_MeleeWeapon_Claymore.label>
+  <Make_MeleeWeapon_Claymore.description>Stelle einen Claymore her.</Make_MeleeWeapon_Claymore.description>
+  <Make_MeleeWeapon_Claymore.jobString>Waffenherstellung.</Make_MeleeWeapon_Claymore.jobString>
+
+  <Make_MeleeWeapon_Zweihander.label>Stelle einen Zweihänder her</Make_MeleeWeapon_Zweihander.label>
+  <Make_MeleeWeapon_Zweihander.description>Stelle einen Zweihänder her.</Make_MeleeWeapon_Zweihander.description>
+  <Make_MeleeWeapon_Zweihander.jobString>Waffenherstellung.</Make_MeleeWeapon_Zweihander.jobString>
+
+  <Make_MeleeWeapon_Sabre.label>Stelle einen Säbel her</Make_MeleeWeapon_Sabre.label>
+  <Make_MeleeWeapon_Sabre.description>Stelle einen Säbel her.</Make_MeleeWeapon_Sabre.description>
+  <Make_MeleeWeapon_Sabre.jobString>Waffenherstellung.</Make_MeleeWeapon_Sabre.jobString>
+
+  <Make_RangedWeapon_Kunai.label>Stelle ein Kunai her</Make_RangedWeapon_Kunai.label>
+  <Make_RangedWeapon_Kunai.description>Stelle ein Kunai her.</Make_RangedWeapon_Kunai.description>
+  <Make_RangedWeapon_Kunai.jobString>Waffenherstellung.</Make_RangedWeapon_Kunai.jobString>
+
+</LanguageData>
