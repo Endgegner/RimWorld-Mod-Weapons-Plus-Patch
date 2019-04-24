@@ -10,7 +10,7 @@ When the code or content is based on different mods and their templates, please 
 
 #### SteamWorkshop
 
-**Update: Weapons+ creates better compatibility for other MeleeWeapon Mods like DGWP or WT now
+Update: Weapons+ creates better compatibility for other MeleeWeapon Mods like DGWP or WT now
 
 Compatibility Changes
 Removes the same weapons: 'Scythe' of Dead Goat's Weapon Pack or 'Katana' of Weapon Tech, when installed.
