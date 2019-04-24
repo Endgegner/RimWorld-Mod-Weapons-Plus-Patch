@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+	<!-- Mod Support for Dead Goat's Weapon Pack  -->
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+		    <li Class="PatchOperationTest">
+                <xpath>/Defs/ThingDef[defName = "3dg_MeleeWeapon_Scythe"]</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/ThingDef[defName = "3dg_MeleeWeapon_Scythe"]</xpath>
+            </li>
+		</operations>
+	</Operation>
+	<!-- Mod Support for Weapon Tech -->
+	<Operation Class="PatchOperationFindMod">
+	<mods>
+	    <!-- <li>1542854752</li> -->
+		<li>Weapon Tech</li>
+	</mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/ThingDef[defName = "MeleeWeapon_Katana"]</xpath>
+            </li>
+		</operations>
+	</match>
+	</Operation>
+	
+</Patch>
